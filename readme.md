@@ -7,5 +7,4 @@ With the investment option comes the additional choice or whether you would like
 
 # How to use
 
-To run this program you need to download the java file, and use the command line interface to run and complile. The command to run java files through the command line 
-is java --filepath.
+This program runs on python and for that the [python](https://www.python.org/downloads/) library is required. Most operating systems have the build in IDLE to run python programs, for reference look online or via the python documentation on official website. 
