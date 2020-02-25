@@ -3,7 +3,7 @@
 This program allows the user to access two financial calculators; an investment and home loan repayment calculator.
 The user interface is simple and only allows a command line interface in which you type to access the commands you want.
 Depending on the users choice of calculator they are prompted to input specific details associated with the investment or bond. 
-With the investment option comes the additional choice or whether you would like to calculate compound or simple interest. 
+With the investment option comes the additional choice or whether you would like to calculate compound or simple interest. After you have entered the relevant information, the program will calculate the associated formula and output the result. You can use the calculator as many times as desired, just close and and reopen the program.
 
 # How to use
 
